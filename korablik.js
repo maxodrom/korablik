@@ -23,4 +23,4 @@ function total_amount(arr) {
     return amount;
 };
 
-window.document.write('<a href="https://yandex.ru" onclick="return confirm(\'Сумма заказа: \' + total_amount(arr));">Покунуть страницу</a>');
+window.document.write('<a href="https://yandex.ru" onclick="return confirm(\'Сумма заказа: \' + total_amount(arr));">Покинуть страницу</a>');
